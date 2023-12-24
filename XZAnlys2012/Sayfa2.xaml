@@ -1,0 +1,128 @@
+﻿<Page x:Class="XZAnlys2012.Sayfa2"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:XZAnlys2012"
+      mc:Ignorable="d" 
+      Title="XZAnlys2012" Width="1050" Background="{x:Null}" FontFamily="Century Gothic" Loaded="Page_Loaded">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="64"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Border Grid.Column="0">
+            <StackPanel x:Name="adimlar" Height="90" Margin="0,-40,0,0" VerticalAlignment="Center" HorizontalAlignment="Center">
+                <Border x:Name="adim1" BorderBrush="{x:Null}" Background="#FF7F1710" Height="30" Width="30" Opacity="0.3">
+                    <TextBlock Text="1" FontSize="15" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                </Border>
+                <Border x:Name="adim2" BorderBrush="{x:Null}" Background="#FF7F1710" Height="30" Width="30">
+                    <TextBlock Text="2" FontSize="15" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                </Border>
+                <Border x:Name="adim3" BorderBrush="{x:Null}" Background="#FF7F1710" Height="30" Width="30" Opacity="0.3">
+                    <TextBlock Text="3" FontSize="15" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                </Border>
+            </StackPanel>
+        </Border>
+        <Border Grid.Column="1" VerticalAlignment="Top">
+            <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto">
+                <StackPanel>
+                    <Grid>
+                        <TextBlock Width="200" Text="Çubuk Bilgileri" Style="{DynamicResource textblocklar}" TextAlignment="Left" Margin="10,0,0,0"/>
+                        <TextBlock Text="i" Style="{DynamicResource textblocklar2}" Margin="130,35,0,0"/>
+                        <TextBlock Text="k"  Style="{DynamicResource textblocklar2}" Margin="250,35,0,0" />
+                        <TextBlock Style="{DynamicResource textblocklar2}" Margin="370,30,0,0">
+                            <Run x:Name="cbkasc">A</Run>
+                            <Run BaselineAlignment="Superscript" FontSize="10">2</Run>
+                            <Run>)</Run>
+                        </TextBlock>
+                        <TextBlock  Style="{DynamicResource textblocklar2}" Margin="490,30,0,0">
+                            <Run x:Name="cbkesc">E</Run>
+                            <Run BaselineAlignment="Superscript" FontSize="10">2</Run>
+                            <Run>)</Run>
+                        </TextBlock>
+                        <TextBlock  Style="{DynamicResource textblocklar2}" Margin="610,30,0,0">
+                            <Run x:Name="cbkatsc">I</Run>
+                            <Run BaselineAlignment="Superscript" FontSize="10">4</Run>
+                            <Run>)</Run>
+                        </TextBlock>
+                        <TextBlock Text="Poisson" Style="{DynamicResource textblocklar2}" Margin="730,35,0,0" />
+                        <TextBlock Text="Alfa" Style="{DynamicResource textblocklar2}" Margin="850,35,0,0"/>
+
+                        <Grid x:Name="cbknolar" Margin="10,75,0,0" Style="{DynamicResource s2grid}"/>
+                        <Grid x:Name="cbkiler" Margin="130,75,0,0" Style="{DynamicResource s2grid}"/>
+                        <Grid x:Name="cbkklar" Margin="250,75,0,0" Style="{DynamicResource s2grid}"/>
+                        <Grid x:Name="cbkalar" Margin="370,75,0,0" Style="{DynamicResource s2grid}"/>
+                        <Grid x:Name="cbkeler" Margin="490,75,0,0" Style="{DynamicResource s2grid}"/>
+                        <Grid x:Name="cbkatlar" Margin="610,75,0,0" Style="{DynamicResource s2grid}"/>
+                        <Grid x:Name="cbkpolar" Margin="730,75,0,0" Style="{DynamicResource s2grid}"/>
+                        <Grid x:Name="cbkallar" Margin="850,75,0,0" Style="{DynamicResource s2grid}"/>
+                    </Grid>
+
+                    <Grid Margin="0,20,0,0">
+                        <TextBlock Width="200" Text="Çubuk Yük Bilgileri" Style="{DynamicResource textblocklar}" TextAlignment="Left" Margin="10,0,0,0"/>
+                        <TextBlock x:Name="cbkyukwsc" Text="W" Style="{DynamicResource textblocklar2}" Margin="130,35,0,0"/>
+                        <TextBlock x:Name="cbkyukpsc" Text="P"  Style="{DynamicResource textblocklar2}" Margin="250,35,0,0" />
+                        <TextBlock x:Name="cbkyuknsc" Text="N"  Style="{DynamicResource textblocklar2}" Margin="370,35,0,0" />
+                        <TextBlock x:Name="cbkyukasc" Text="a"  Style="{DynamicResource textblocklar2}" Margin="490,35,0,0" />
+                        <TextBlock x:Name="cbkyuknjsc" Text="Nj"  Style="{DynamicResource textblocklar2}" Margin="610,35,0,0" />
+                        <TextBlock  Style="{DynamicResource textblocklar2}" Margin="730,30,0,0">
+                            <Run x:Name="cbkyukmjsc">Mj</Run>
+                            <Run BaselineAlignment="Superscript" FontSize="10">2</Run>
+                            <Run>)</Run>
+                        </TextBlock>
+
+                        <Grid x:Name="cbknolar2" Margin="10,75,0,0" Style="{DynamicResource s2grid}"/>
+                        <Grid x:Name="cbkyukwler" Margin="130,75,0,0" Style="{DynamicResource s2grid}"/>
+                        <Grid x:Name="cbkyukpler" Margin="250,75,0,0" Style="{DynamicResource s2grid}"/>
+                        <Grid x:Name="cbkyuknler" Margin="370,75,0,0" Style="{DynamicResource s2grid}"/>
+                        <Grid x:Name="cbkyukalar" Margin="490,75,0,0" Style="{DynamicResource s2grid}"/>
+                        <Grid x:Name="cbkyuknjler" Margin="610,75,0,0" Style="{DynamicResource s2grid}"/>
+                        <Grid x:Name="cbkyukmjler" Margin="730,75,0,0" Style="{DynamicResource s2grid}"/>
+                    </Grid>
+
+                    <Grid Margin="0,20,0,0">
+                        <TextBlock Width="200" Text="Düğüm Bilgileri" Style="{DynamicResource textblocklar}" TextAlignment="Left" Margin="10,0,0,0"/>
+                        <TextBlock x:Name="dgmxsc" Text="X" Style="{DynamicResource textblocklar2}" Margin="130,35,0,0"/>
+                        <TextBlock x:Name="dgmysc" Text="Y"  Style="{DynamicResource textblocklar2}" Margin="250,35,0,0" />
+                        <TextBlock Text="U"  Style="{DynamicResource textblocklar2}" Margin="370,35,0,0" />
+                        <TextBlock Text="V"  Style="{DynamicResource textblocklar2}" Margin="490,35,0,0" />
+                        <TextBlock Text="Teta"  Style="{DynamicResource textblocklar2}" Margin="610,35,0,0" />
+
+                        <Grid x:Name="dgmnolar" Margin="10,75,0,0" Style="{DynamicResource s2grid}"/>
+                        <Grid x:Name="dgmxler" Margin="130,75,0,0" Style="{DynamicResource s2grid}"/>
+                        <Grid x:Name="dgmyler" Margin="250,75,0,0" Style="{DynamicResource s2grid}"/>
+                        <Grid x:Name="dgmular" Margin="370,75,0,0" Style="{DynamicResource s2grid}"/>
+                        <Grid x:Name="dgmvler" Margin="490,75,0,0" Style="{DynamicResource s2grid}"/>
+                        <Grid x:Name="dgmtetalar" Margin="610,75,0,0" Style="{DynamicResource s2grid}"/>
+                    </Grid>
+
+                    <Grid Margin="0,20,0,0">
+                        <TextBlock Width="200" Text="Düğüm Açı Ve Yük Bilgileri" Style="{DynamicResource textblocklar}" TextAlignment="Left" Margin="10,0,0,0"/>
+                        <TextBlock Style="{DynamicResource textblocklar2}" Margin="130,35,0,0">
+                            <Run>Açı</Run>
+                            <Run BaselineAlignment="Superscript" FontSize="10">°</Run>
+                        </TextBlock>
+                        <TextBlock x:Name="dgmyukxsc" Text="YükX"  Style="{DynamicResource textblocklar2}" Margin="250,35,0,0" />
+                        <TextBlock x:Name="dgmyukysc" Text="YükY"  Style="{DynamicResource textblocklar2}" Margin="370,35,0,0" />
+                        <TextBlock x:Name="dgmyukzsc" Text="YükZ"  Style="{DynamicResource textblocklar2}" Margin="490,35,0,0" />
+
+                        <Grid x:Name="dgmnolar2" Margin="10,75,0,0" Style="{DynamicResource s2grid}"/>
+                        <Grid x:Name="dgmacilar" Margin="130,75,0,0" Style="{DynamicResource s2grid}"/>
+                        <Grid x:Name="dgmyukxler" Margin="250,75,0,0" Style="{DynamicResource s2grid}"/>
+                        <Grid x:Name="dgmyukyler" Margin="370,75,0,0" Style="{DynamicResource s2grid}"/>
+                        <Grid x:Name="dgmyukzler" Margin="490,75,0,0" Style="{DynamicResource s2grid}"/>
+                    </Grid>
+
+                    <Grid Margin="0,20,0,20">
+                        <DockPanel Width="260" HorizontalAlignment="Center">
+                            <Button x:Name="ileri" Content="İleri" Width="80" IsTabStop="True" Style="{DynamicResource altbutonlar}" Click="Ileri_Click"/>
+                            <Button x:Name="temizle" Content="Temizle" Width="80" Margin="10,0,0,0" IsTabStop="True" Style="{DynamicResource altbutonlar}" Click="Temizle_Click"/>
+                            <Button x:Name="kapat" Content="Kapat" Width="80" Margin="10,0,0,0" IsTabStop="True" Style="{DynamicResource altbutonlar}" Click="Kapat_Click"/>
+                        </DockPanel>
+                    </Grid>
+                </StackPanel>
+            </ScrollViewer>
+        </Border>
+    </Grid>
+</Page>

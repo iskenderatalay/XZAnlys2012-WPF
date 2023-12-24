@@ -1,0 +1,96 @@
+C:\Users\iskender\source\repos\XZAnlys2012\XZAnlys2012\bin\Debug\XZAnlys2012.exe.config
+C:\Users\iskender\source\repos\XZAnlys2012\XZAnlys2012\bin\Debug\XZAnlys2012.exe
+C:\Users\iskender\source\repos\XZAnlys2012\XZAnlys2012\bin\Debug\XZAnlys2012.pdb
+C:\Users\iskender\source\repos\XZAnlys2012\XZAnlys2012\obj\Debug\MainWindow.g.cs
+C:\Users\iskender\source\repos\XZAnlys2012\XZAnlys2012\obj\Debug\App.g.cs
+C:\Users\iskender\source\repos\XZAnlys2012\XZAnlys2012\obj\Debug\XZAnlys2012_MarkupCompile.cache
+C:\Users\iskender\source\repos\XZAnlys2012\XZAnlys2012\obj\Debug\XZAnlys2012_MarkupCompile.lref
+C:\Users\iskender\source\repos\XZAnlys2012\XZAnlys2012\obj\Debug\App.baml
+C:\Users\iskender\source\repos\XZAnlys2012\XZAnlys2012\obj\Debug\MainWindow.baml
+C:\Users\iskender\source\repos\XZAnlys2012\XZAnlys2012\obj\Debug\XZAnlys2012.g.resources
+C:\Users\iskender\source\repos\XZAnlys2012\XZAnlys2012\obj\Debug\XZAnlys2012.Properties.Resources.resources
+C:\Users\iskender\source\repos\XZAnlys2012\XZAnlys2012\obj\Debug\XZAnlys2012.csproj.GenerateResource.cache
+C:\Users\iskender\source\repos\XZAnlys2012\XZAnlys2012\obj\Debug\XZAnlys2012.csproj.CoreCompileInputs.cache
+C:\Users\iskender\source\repos\XZAnlys2012\XZAnlys2012\obj\Debug\XZAnlys2012.exe
+C:\Users\iskender\source\repos\XZAnlys2012\XZAnlys2012\obj\Debug\XZAnlys2012.pdb
+C:\Users\iskender\source\repos\XZAnlys2012\XZAnlys2012\obj\Debug\XZAnlys2012.csprojAssemblyReference.cache
+C:\Users\iskender\source\repos\XZAnlys2012\XZAnlys2012\obj\Debug\Sayfa1.g.cs
+C:\Users\iskender\source\repos\XZAnlys2012\XZAnlys2012\obj\Debug\Sayfa1.baml
+C:\Users\iskender\source\repos\XZAnlys2012\XZAnlys2012\obj\Debug\Sayfa2.g.cs
+C:\Users\iskender\source\repos\XZAnlys2012\XZAnlys2012\obj\Debug\Sayfa2.baml
+C:\Users\iskender\source\repos\XZAnlys2012\XZAnlys2012\obj\Debug\Hata.g.cs
+C:\Users\iskender\source\repos\XZAnlys2012\XZAnlys2012\obj\Debug\Hata.baml
+C:\Users\iskender\source\repos\XZAnlys2012\XZAnlys2012\obj\Debug\Sayfa3.g.cs
+C:\Users\iskender\source\repos\XZAnlys2012\XZAnlys2012\obj\Debug\Sayfa3.baml
+C:\Users\iskender\source\repos\XZAnlys2012\XZAnlys2012\obj\Debug\Labil.g.cs
+C:\Users\iskender\source\repos\XZAnlys2012\XZAnlys2012\obj\Debug\Labil.baml
+C:\Users\iskender\source\repos\XZAnlys2012\XZAnlys2012\obj\Debug\Yazdir1.g.cs
+C:\Users\iskender\source\repos\XZAnlys2012\XZAnlys2012\obj\Debug\Yazdir1.baml
+C:\Users\iskender\source\repos\XZAnlys2012\XZAnlys2012\obj\Debug\Yazdir2.g.cs
+C:\Users\iskender\source\repos\XZAnlys2012\XZAnlys2012\obj\Debug\Yazdir3.g.cs
+C:\Users\iskender\source\repos\XZAnlys2012\XZAnlys2012\obj\Debug\Yazdir2.baml
+C:\Users\iskender\source\repos\XZAnlys2012\XZAnlys2012\obj\Debug\Yazdir3.baml
+F:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\bin\Debug\XZAnlys2012.exe.config
+F:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\bin\Debug\XZAnlys2012.exe
+F:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\bin\Debug\XZAnlys2012.pdb
+F:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\XZAnlys2012.csprojAssemblyReference.cache
+F:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\Hata.g.cs
+F:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\Labil.g.cs
+F:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\MainWindow.g.cs
+F:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\Sayfa1.g.cs
+F:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\Sayfa2.g.cs
+F:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\Sayfa3.g.cs
+F:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\Yazdir1.g.cs
+F:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\Yazdir2.g.cs
+F:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\Yazdir3.g.cs
+F:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\App.g.cs
+F:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\XZAnlys2012_MarkupCompile.cache
+F:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\XZAnlys2012_MarkupCompile.lref
+F:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\App.baml
+F:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\Hata.baml
+F:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\Labil.baml
+F:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\MainWindow.baml
+F:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\Sayfa1.baml
+F:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\Sayfa2.baml
+F:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\Sayfa3.baml
+F:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\Yazdir1.baml
+F:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\Yazdir2.baml
+F:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\Yazdir3.baml
+F:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\XZAnlys2012.g.resources
+F:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\XZAnlys2012.Properties.Resources.resources
+F:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\XZAnlys2012.csproj.GenerateResource.cache
+F:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\XZAnlys2012.csproj.CoreCompileInputs.cache
+F:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\XZAnlys2012.exe
+F:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\XZAnlys2012.pdb
+E:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\bin\Debug\XZAnlys2012.exe.config
+E:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\bin\Debug\XZAnlys2012.exe
+E:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\bin\Debug\XZAnlys2012.pdb
+E:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\XZAnlys2012.csproj.AssemblyReference.cache
+E:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\Hata.g.cs
+E:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\Labil.g.cs
+E:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\MainWindow.g.cs
+E:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\Sayfa1.g.cs
+E:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\Sayfa2.g.cs
+E:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\Sayfa3.g.cs
+E:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\Yazdir1.g.cs
+E:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\Yazdir2.g.cs
+E:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\Yazdir3.g.cs
+E:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\App.g.cs
+E:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\XZAnlys2012_MarkupCompile.cache
+E:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\XZAnlys2012_MarkupCompile.lref
+E:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\App.baml
+E:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\Hata.baml
+E:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\Labil.baml
+E:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\MainWindow.baml
+E:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\Sayfa1.baml
+E:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\Sayfa2.baml
+E:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\Sayfa3.baml
+E:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\Yazdir1.baml
+E:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\Yazdir2.baml
+E:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\Yazdir3.baml
+E:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\XZAnlys2012.g.resources
+E:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\XZAnlys2012.Properties.Resources.resources
+E:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\XZAnlys2012.csproj.GenerateResource.cache
+E:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\XZAnlys2012.csproj.CoreCompileInputs.cache
+E:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\XZAnlys2012.exe
+E:\XZAnlys\WPF Versiyonu\XZAnlys2012\XZAnlys2012\obj\Debug\XZAnlys2012.pdb
